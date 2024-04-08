@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\source\\repos\\SIMSS\\SIMSS\\SIMSS.csproj": {}
+    "C:\\Users\\admin\\OneDrive\\Tài liệu\\GitHub\\Project\\SIMSS\\SIMSS\\SIMSS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\source\\repos\\SIMSS\\SIMSS\\SIMSS.csproj": {
+    "C:\\Users\\admin\\OneDrive\\Tài liệu\\GitHub\\Project\\SIMSS\\SIMSS\\SIMSS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\SIMSS\\SIMSS\\SIMSS.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\OneDrive\\Tài liệu\\GitHub\\Project\\SIMSS\\SIMSS\\SIMSS.csproj",
         "projectName": "SIMSS",
-        "projectPath": "C:\\Users\\admin\\source\\repos\\SIMSS\\SIMSS\\SIMSS.csproj",
+        "projectPath": "C:\\Users\\admin\\OneDrive\\Tài liệu\\GitHub\\Project\\SIMSS\\SIMSS\\SIMSS.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\source\\repos\\SIMSS\\SIMSS\\obj\\",
+        "outputPath": "C:\\Users\\admin\\OneDrive\\Tài liệu\\GitHub\\Project\\SIMSS\\SIMSS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

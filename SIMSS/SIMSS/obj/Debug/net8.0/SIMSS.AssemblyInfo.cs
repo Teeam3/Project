@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SIMSS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6ca34e3e123fe4cdd60ae83389c64bd76581b8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SIMSS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SIMSS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
